@@ -1,6 +1,6 @@
 # 🤖 Github Contribution Bot
 
-![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103) [![GPL-3.0 license](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://github.com/shvmpk/github-contributor-bot/blob/main/LICENSE) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![Go](https://img.shields.io/badge/Language-Go-00ADD8.svg)](https://go.dev/) [![Version](https://img.shields.io/badge/Version-2.1.0-brightgreen.svg)](https://github.com/shvmpk/github-contributor-bot/releases)
+![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103) [![GPL-3.0 license](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://github.com/shvmpk/github-contributor-bot/blob/main/LICENSE) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![Go](https://img.shields.io/badge/Language-Go-00ADD8.svg)](https://go.dev/) [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/shvmpk/github-contributor-bot/releases)
 
 ## 🌍 Overview
 
@@ -44,10 +44,10 @@ This bot is designed to be **indistinguishable from a real human developer**:
 - ⚡ **Zero Setup & Dual Mode:** Unlike competitors that require Node.js/Python, this is a single native Go binary. It supports both *Daily Maintenance* (via Actions) and *Bulk Backdating* (via CLI).
 
 ### Before 😓
-![before](https://github.com/shvmpk/github-contributor-bot/assets/66107248/07748a99-c4c2-4c6c-8925-60a7a5799de4)
+![before](https://github.com/shvmpk/github-contribution-bot/assets/66107248/07748a99-c4c2-4c6c-8925-60a7a5799de4)
 
 ### After 💪🔥
-![after](https://github.com/shvmpk/github-contributor-bot/assets/66107248/3687082f-5a5a-4739-a672-7cfebc64595d)
+![after](https://github.com/shvmpk/github-contribution-bot/assets/66107248/3687082f-5a5a-4739-a672-7cfebc64595d)
 
 ---
 
