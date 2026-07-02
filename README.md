@@ -44,10 +44,11 @@ This bot is designed to be **indistinguishable from a real human developer**:
 - ⚡ **Zero Setup & Dual Mode:** Unlike competitors that require Node.js/Python, this is a single native Go binary. It supports both *Daily Maintenance* (via Actions) and *Bulk Backdating* (via CLI).
 
 ### Before 😓
-![before](https://github.com/shvmpk/github-contribution-bot/assets/66107248/07748a99-c4c2-4c6c-8925-60a7a5799de4)
+<img width="1040" height="240" alt="before" src="https://github.com/user-attachments/assets/6743e3c5-623d-4c58-b23d-8e09e7af731b" />
+
 
 ### After 💪🔥
-![after](https://github.com/shvmpk/github-contribution-bot/assets/66107248/3687082f-5a5a-4739-a672-7cfebc64595d)
+<img width="1036" height="236" alt="after" src="https://github.com/user-attachments/assets/ea90e2d0-6da3-419c-8594-1c110639f4eb" />
 
 ---
 
