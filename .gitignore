@@ -1,0 +1,38 @@
+# Go binaries
+/daily
+/spam
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test/build artifacts
+*.test
+*.out
+*.prof
+cover.html
+
+# Go workspace
+go.work
+go.work.sum
+
+# Bot internal state (not needed in git history)
+stats.json
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.envrc
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Node.js (legacy, can be removed after cleanup)
+node_modules/
+package-lock.json

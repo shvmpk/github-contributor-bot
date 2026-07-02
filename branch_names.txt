@@ -1,0 +1,19 @@
+# Custom Branch Names
+# ─────────────────────────────────────────────────────────────────────────────
+# Add your own branch names below — one branch name per line.
+# Lines starting with # are ignored (comments).
+# Empty lines are also ignored.
+#
+# How this file works:
+#   "append"  mode (default): Your branch names are ADDED to the ~200 built-in ones.
+#             Set in bot.config.json: "branch_mode": "append"
+#
+#   "replace" mode: ONLY your branch names are used.
+#             Set in bot.config.json: "branch_mode": "replace"
+#
+# Use realistic branch naming conventions (e.g. prefix/description):
+# Example branch names (uncomment to use):
+# feature/my-new-feature
+# bugfix/fix-specific-issue
+# chore/update-my-config
+# refactor/improve-my-module

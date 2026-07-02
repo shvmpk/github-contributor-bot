@@ -1,0 +1,12 @@
+{
+  "_comment": "All fields are optional. CLI flags always override these values.",
+  "min_commits": 1,
+  "max_commits": 3,
+  "skip_weekends": false,
+  "dry_run": false,
+  "data_dir": "bot-data",
+  "messages_file": "messages.txt",
+  "messages_mode": "append",
+  "branch_names_file": "branch_names.txt",
+  "branch_mode": "append"
+}

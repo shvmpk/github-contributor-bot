@@ -1,0 +1,20 @@
+# Custom Commit Messages
+# ─────────────────────────────────────────────────────────────────────────────
+# Add your own commit messages below — one message per line.
+# Lines starting with # are ignored (comments).
+# Empty lines are also ignored.
+#
+# How this file works:
+#   "append"  mode (default): Your messages are ADDED to the ~200 built-in ones.
+#             This gives the most variety. Set in bot.config.json:
+#             "messages_mode": "append"
+#
+#   "replace" mode: ONLY your messages are used. The built-in pool is ignored.
+#             Set in bot.config.json: "messages_mode": "replace"
+#
+# Example messages (uncomment to use):
+# 🎯 implement core feature logic
+# 🔍 investigate performance bottleneck
+# 💡 prototype new approach for data pipeline
+# 🧵 resolve thread safety issue
+# 🌱 initial commit for new module
