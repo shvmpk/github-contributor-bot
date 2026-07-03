@@ -1,4 +1,4 @@
-# 🤖 Github Contribution Bot
+# 🤖 Github Contributor Bot
 
 ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103) [![GPL-3.0 license](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://github.com/shvmpk/github-contributor-bot/blob/main/LICENSE) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![Go](https://img.shields.io/badge/Language-Go-00ADD8.svg)](https://go.dev/) [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/shvmpk/github-contributor-bot/releases)
 
