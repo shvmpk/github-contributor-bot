@@ -55,7 +55,7 @@ This bot is designed to be **indistinguishable from a real human developer**:
 ## 📁 Project Structure
 
 ```
-github-contribution-bot/
+github-contributor-bot/
 ├── .github/
 │   └── workflows/
 │       ├── daily-commit.yml        # Daily cron job (GitHub Actions)
@@ -88,7 +88,8 @@ github-contribution-bot/
 
 ## 🚀 How it Works & Usage
 
-This project provides two distinct CLI tools. Ensure you have [Go 1.22+](https://go.dev/) installed, **or** download a pre-built binary from the [Releases page](https://github.com/shvmpk/github-contributor-bot/releases).
+This project works out of the box using GitHub Actions and **requires no extra setup**. For users who prefer running the tools locally, pre-built CLI binaries are also available on the Releases page.
+Ensure you have [Go 1.22+](https://go.dev/) installed, **or** download a pre-built binary from the [Releases page](https://github.com/shvmpk/github-contributor-bot/releases).
 
 ### 📦 Download Pre-Built Binaries (No Go Required)
 
